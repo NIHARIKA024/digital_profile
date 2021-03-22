@@ -27,3 +27,7 @@ NAME | ROLLNO
 ----- | -------
 snigdha | 29
 lavanya | 19
+
+GitHub supports emopji!
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat:
