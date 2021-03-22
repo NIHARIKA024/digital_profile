@@ -39,9 +39,6 @@ GitHub supports emoji!
 
 GOKAVARAPU NIHARIKA
 ===================  
-
-
-
 -------------------     ----------------------------
 1 sampath nagar                     gokavarapuniharika@gmail.com
 Guntur                             
@@ -60,7 +57,7 @@ Education
 2017-2019
 :   **Intermediate, SRIGAYATRI JUNIOR COLLEGE**; (Guntur)
 
-    *Minor: Awesomeology*
+    *MPC*
 
 Experience
 ----------
