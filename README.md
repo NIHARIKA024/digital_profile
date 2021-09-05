@@ -25,8 +25,8 @@ http://github.com - automatic!
 
 NAME | ROLLNO
 ----- | -------
-snigdha | 29
-lavanya | 19
+A | 29
+B | 19
 
 GitHub supports emoji!
 :+1: :sparkles: :camel: :tada:
